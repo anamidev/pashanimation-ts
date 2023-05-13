@@ -15,7 +15,7 @@ export default function Home() {
                     className="rounded-full bg-zinc-100"
                 />
             </div>
-            <div className="my-2">Pasha Potekhin</div>
+            <div className="my-2 text-xl font-bold">Pasha Potekhin</div>
             <div>@Pashanimation</div>
             <div>pasha.a.potekhin@gmail.com</div>
             <div className="w-full max-w-[500px] mt-4 flex flex-col gap-y-3 items-center">
