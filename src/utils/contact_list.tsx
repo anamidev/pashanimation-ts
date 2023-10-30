@@ -18,7 +18,7 @@ export const contact_list: ContactItem[] = [
     },
     {
         label: 'Resume PDF',
-        href: 'https://drive.google.com/file/d/1edozXayg9iGpCk_LwRpb4vvQysTM4VtS/view',
+        href: 'https://drive.google.com/file/d/18KDGHzqXlc_Bh6pxuOjZ3gwagXpzRLrg/view',
         icon: null,
         svgIcon: (
             <svg
